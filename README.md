@@ -12,3 +12,12 @@ project for me
 
 # Notice
 퍼블릭인 이유 : 한창 관심이 필요한 나이라서
+
+
+
+# Tree
+1. Date 
+2. Data
+3. Abstract
+4. Main
+
